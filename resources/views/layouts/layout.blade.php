@@ -64,16 +64,7 @@
         </style>
     </head>
     <body>
-    <div class="flex-center position-ref full-height">
-        <div class="content">
-            <div class="title m-b-md">
-                Pizza List
-            </div>
-            @if($price > 11)
-            <p>this pizza is expensive</p>
-            @endif
-        </div>
-    </div>
+
 
     </body>
 </html>
